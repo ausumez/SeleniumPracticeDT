@@ -68,6 +68,14 @@ public class homework01 {
 
     }
 
-
-
-    }
+//    //Browser'i istenen konuma tasi
+//
+//driver.manage().window().setPosition(new Point(80, 0));
+//
+////Browser'i istenen konuma getir
+//
+//driver.manage().window().setSize(new Dimension(800, 600));
+//
+//
+//
+  }
